@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autism_Detection_Hons_Proj_WebApplication", "Autism_Detection_Hons_Proj_WebApplication\Autism_Detection_Hons_Proj_WebApplication.csproj", "{BC5FECEA-C388-4017-84A3-51D2C07DF8B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5FECEA-C388-4017-84A3-51D2C07DF8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5FECEA-C388-4017-84A3-51D2C07DF8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5FECEA-C388-4017-84A3-51D2C07DF8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5FECEA-C388-4017-84A3-51D2C07DF8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E155E38B-C015-4645-A62B-238E30ED40A6}
+	EndGlobalSection
+EndGlobal
